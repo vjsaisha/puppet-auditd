@@ -2,11 +2,11 @@
 audit rules for my environment
 
 ## Section overview
-1. [Module introduction](#module-introduction)
+1. [Module introduction](#module)
 2. Module usage
 3. example
 
-## Module introduction
+## Module
 
 Basic use
 
