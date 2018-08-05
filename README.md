@@ -17,3 +17,24 @@ use like this
 ## example
 
 use
+afskdfs;ldgf
+askdjjnasda\
+asdkjasnda
+adsklanjsda
+asdjkljasd';asd
+adsad
+d\
+d
+d
+d
+d
+asdasd
+ad
+asd
+asd
+asd
+asf
+a
+fa
+sfas
+fd
